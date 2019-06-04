@@ -1,0 +1,42 @@
+.jumbotron {
+    text-align: center;
+    background: none;
+}
+
+.sectionLight{
+    background-color: #eceeef;
+    padding: 2em;
+}
+
+div.carousel-inner{
+    margin-bottom: 50px;
+}
+
+.carousel-item img{
+    height: 450px !important;
+    width: 850px !important;
+}
+
+.SectionDark{
+    background-color: #cccccc;
+    padding: 2rem;
+}
+
+.coolstuffwrapper{
+        margin-top: 20px;
+}
+
+.coolstuffbtn{
+    background: red;
+    color: #ffffff;
+    display: block;
+    margin: auto;
+}
+
+h5.modal-title{
+    margin: auto;
+}
+
+.modelformwrapper{
+    padding: 2rem;
+}
